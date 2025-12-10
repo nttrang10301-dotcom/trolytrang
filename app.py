@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: Nông Thùy Trang - Trường TH Bình Yên/p>
+    <p>Tác giả: Nông Thùy Trang - Trường TH Bình Yên
 </div>
 """, unsafe_allow_html=True)
 
